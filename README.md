@@ -1,1 +1,3 @@
-# Bitcoin-and-Cryptocurrency-Analysis
+# Bitcoin and Cryptocurrency Analysis
+
+Bitcoin is a peer-to-peer electric currency. It is based on the blockchain technology to achieve instant payments to anyone, anywhere in the world without any central authority. Transaction management and money issuance are carried out collectively by the network. Besides the so appealing nature of bitcoin's decentralization, bitcoin as an emerging investment is worth analyzing to diversify traditional investment portfolio. My project is aimed to apply machine learning algorithms including linear regression, xgboost, and recurrent neural network etc. to the data scraped from Google, Facebook, Twitter, Reddit, Coindesk, and other main media to predict bitcoin's future price.
